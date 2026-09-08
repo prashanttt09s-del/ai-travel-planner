@@ -1,0 +1,16 @@
+AI TRAVEL PLANNER - FINAL
+
+1. Extract this ZIP.
+2. Open the extracted folder in VS Code.
+3. Open Terminal in that folder.
+4. Run:
+   npm install
+5. Create .env.local from .env.example and add your GEMINI_API_KEY if you want Gemini AI generation.
+6. Run:
+   npm run dev
+7. Open the localhost URL shown by the terminal (this project normally uses port 3000).
+
+IMPORTANT:
+- The project keeps the original Travel Planner features.
+- The broken experimental RouteMap code has been replaced with a clean React-Leaflet map.
+- Route & Transit now includes a live road route, road distance, estimated driving time, and AI-suggested en-route stops when available.

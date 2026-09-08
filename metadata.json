@@ -1,0 +1,8 @@
+{
+  "name": "AI Travel Planner",
+  "description": "Smart AI-powered travel planner featuring comprehensive day-by-day itineraries, transit routes, bike tour petrol & stay calculators, budget breakdowns, packing lists, and local recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
